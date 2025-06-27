@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lirikj
+- 👋 Hi, I’m Kirill
 - student of PSUTI
 - I made a Telegram bot and a Telegram web app
 - Interested in Python and C++ development
